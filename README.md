@@ -1,2 +1,2 @@
-# Temp
-##this is kartik from muzaffarnagar
+# Temp 
+this is kartik from muzaffarnagar
